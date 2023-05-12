@@ -37,11 +37,11 @@ This data analysis project aims to identify students facing socio-economic barri
     
     
 ## **STEP-5**  *MACHINE LEARNING MODELS*<br>
-   ####LOGISTIC REGRESSION (CLASSIFICATION MODEL)####
+   #### LOGISTIC REGRESSION (CLASSIFICATION MODEL)####
    
    Logistic Regression is a popular supervised learning algorithm used for classification tasks. It is particularly useful when the dependent variable is categorical. The goal of logistic regression is to predict the probability of an instance belonging to a particular class or category.<br><br>
    
-   ####K-MEANS CLUSTERING (CLUSTERING MODEL)####
+   #### K-MEANS CLUSTERING (CLUSTERING MODEL)####
    
    K-means Clustering is an unsupervised learning algorithm used for clustering or grouping similar data points together. It partitions the data into K distinct clusters based on their feature similarity.<br><br>
 
